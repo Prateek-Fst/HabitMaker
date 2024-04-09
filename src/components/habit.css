@@ -1,0 +1,42 @@
+
+.container {
+    border: 2px solid black;
+    height: 90vh;
+    width: 180vh;
+    margin: auto;
+    margin-top: 2%;
+    border-radius: 10px;
+    background-image: repeating-linear-gradient(red, yellow);
+}
+
+.display {
+    width: 45vw;
+    padding: 15px;
+    margin-left: 1%;
+    margin-top: 2%;
+    border-radius: 5px;
+
+
+}
+
+.displaydate {
+    width: 60vh;
+    padding: 15px;
+    margin-left: 1%;
+    border-radius: 5px;
+
+}
+
+.savebtn {
+    padding: 17px;
+    margin-left: 1%;
+    width: 21vh;
+    border-radius: 5px;
+
+}
+
+.h1 {
+    margin: auto;
+    margin-top: 2%;
+    margin-left: 40%;
+}
